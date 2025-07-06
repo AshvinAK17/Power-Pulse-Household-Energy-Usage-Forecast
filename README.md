@@ -13,7 +13,7 @@ PowerPulse is a data-driven project that forecasts household energy consumption 
 ## 🗃️ Dataset Details
 
 - **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption)
-- **File**: `household_power_consumption.txt`
+- **File**: `individual+household+electric+power+consumption.zip`
 - **Frequency**: 1-minute intervals
 - **Period**: Dec 2006 and November 2010 (47 months)
 - **Domain**: Energy & Utilities
